@@ -1,0 +1,17 @@
+{
+ "latest": "1.1.0",
+ "patches": {
+  "1.0.0": {
+   "version": "1.1.0",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.0/1.0.0_to_1.1.0.pck",
+   "sha256": "9158a38012f00e380c2a504b2846076fc8d11849db2df6647a4de41645c9b8b3",
+   "size": 3587984,
+   "sig": "YdppjY3Twy8iOOvCX8g6lwL3411tnMBYzLxqobjM5236d47DBN7LBwoDG4fRi/ilZ2aXjFMr/ejl9DZ4oAhhp11qHetCEwj4EgWA2wqOTvngCoVWMl2Gs7K1k1/fp5jYbd0I1ONd6Oi6N5rd/TDA8TUmvhK/L9Rz0vZJksUNB3lQYLudI43qU16b0YjzJkbqWMUqvz7Ug9RPe5esNbYj2gqjV2Dd+GqNiSWKwhld2q2VhkPiyMNY1iI1yYtjLt8QDCXnirZyCrJs00x6fpfYQUTs/KR6gpbRWxRRva+4VNc3bRYNjY2TCKnVVhU8jNNAGPMD5sdVOMQgUioV8bAWzA=="
+  }
+ },
+ "android": {},
+ "web": {},
+ "notes": {
+  "1.1.0": "ОНОВЛЕННЯ ВСЮДИ: латки тепер приходять і в браузерну версію, і на Android — перекачувати гру більше не треба.\nПОПЕРЕДЖЕННЯ: в меню видно, що оновлення завантажується, а коли готове — вікно «що нового» з кнопками\n  «Перезапустити зараз» / «Пізніше»; у грі — тихе повідомлення.\nРУЧНА ПЕРЕВІРКА: Налаштування → Гра → «Перевірити оновлення» — працює і з вимкненим автооновленням.\nМЕНЮ: версію й підказки в кутку тепер видно.\nANDROID: гра отримала доступ до інтернету — працюють оновлення й онлайн-знак.\nА ще все з 1.0.1: плавна лава, вікна лави, «назад» на геймпаді, «Вилка братів», лучники на посту."
+ }
+}
