@@ -1,42 +1,43 @@
 {
- "latest": "1.1.2",
+ "latest": "1.2.0",
  "patches": {
   "1.0.0": {
-   "version": "1.1.2",
-   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.2/1.0.0_to_1.1.2.pck",
-   "sha256": "e9c7d2942e0505541ea818a8abb8ba564340794c46cd2fcdc992ceefbc66f740",
-   "size": 3594904,
-   "sig": "jxQIGz9cpT78S7DfB5AUetWcFg+N22Uz67J1VvHu0uWUmSbKVzKMTg2HKkJK6Qa96cKvbREV8LVPA3TLktCxUC+876HoRkFF3B6Lg2/wRzhhmAF1FekhEmna7M7G/lroPedcohcPF7u4pCtRw6bzojHGyjxuNFLHwAbK9WtJCd0XcgE57k1J4v9fC26CJ5n/rPaVMFsgZtVTACxaKYQIzjszGmCw54uhnu6Z0vsq5fnPmZMHKWxVarWm8hKUUBFBRNBCQTgwybxA/E3BSoTsJdeY3LmghuaHTDqCm18oPz0lnQ00aJz7xXa/MErQisr+efmFdK+USj1N0QkaeBvNYw=="
+   "version": "1.2.0",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.2.0/1.0.0_to_1.2.0.pck",
+   "sha256": "e5e8fd0397e5e941689c6c6f069eef2c18a488ae1cb50aa834b6cb13c620c78f",
+   "size": 3595016,
+   "sig": "H815Xnh62RqI9rrQ+cpHQHRhmQSF5cBeyAHUuFYoSr7NmWzf3IuIqDMr3otZbztUzglpT7y+kgUNrElrDrAxcrcmcXsMSeIz/x0R1qIIK0YXQe01+MwjGc9q+T3AJQIjj26nEs6knewv1Qc3py5emfK2btm32lLGi3dSHL7PIcWg+QzyTBrmBQCLMHmoXjY6oPJCzL+5zCiT1y8xfeqgs1ANTrLivdPVEMU9y55TpPVv64CXE4hj37tw0Rx3DKXSD6/BZpzokDEKiakdp8ViRZV9fPoq12SepHtotHZGRdrDKRhL4V4Vw0tvr7KfVsffIHPCtW33QnS3+WAvmkPiIg=="
   },
   "1.1.0": {
-   "version": "1.1.2",
-   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.2/1.1.0_to_1.1.2.pck",
-   "sha256": "1a952715bcf94c142f9f82f3d34d0dfcb6ebc784c0d2cf0b29b5a89ebfad3b24",
-   "size": 80804,
-   "sig": "MwPx3dlxHn4nXfPr85DcgJ4iVzmWvwD5iDpyS5RyPSV4+J0STpr1EdAhe4YGnwkDgnu/S8HRUFZAXv0pc5NNWeZNst2/+vepw/VoGuzencFK/BMpz3WOUIFp9wqO4ZMxulDhgLRHvjYRzcsp44qQ74RNsZziUFEMVogjd5Z7q1s08KzqspzzD01rsQsAnNSTF92LUv9CZHZ3wBlVNKOYp3XH+fuBsxGuKekubdiusP70CLkUe3rqbxw6v/ykikl9et8cthM5Roz7CUwPA2YTxoXMXfc9CGxlEkXDYwTA2DIOUe0v5y8EvYIX2KG4iK/I6ipjoqRRui02eOd2J6Np+A=="
+   "version": "1.2.0",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.2.0/1.1.0_to_1.2.0.pck",
+   "sha256": "f36501b2f440f9b57261f1c945e1d500ed31b28dfe6ddc4170906b34f1a9b6ca",
+   "size": 135108,
+   "sig": "J92OXaKqdl7nPrtAcFxSZF4lUeGT6jKDZM9XCBPc/31qPz0zl0ELuZL+Ki3ZS1d42+VBsbEllvcMBdiHnmzrLUPeL/fvZBvWqH3poPCsBHgARu2RgCJLTa0Ph3iWjBv3bBt/DECwup6iOLU2aqUts8dViSU7gz9eEGRH0DwGwEvb6PBd4isqy9VkOosbrc8gZdm2g4LBie4Pi2CkgbpXRXKoQzLnrF+zzS+6uFFl6B9jvjZUHwABcXdjDc8m+ROAetBfkr3OWqg+CwMJ4cWYkXwmsgWGDRewv2TGJCM7I2maA3HHMPKUzI32XNtmnu2XsIYB1nc8JblHRq+9Iki0ag=="
   }
  },
  "android": {
   "1.1.0": {
-   "version": "1.1.2",
-   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.2/1.1.0_to_1.1.2_android.pck",
-   "sha256": "b1a3a619e8f36b077ed39488ddde0eb9fb25ee3645c1c4a4429baad45bd5e756",
-   "size": 132416,
-   "sig": "RHmw9GRESNDmptrl3mGz3NyyUN9id2AApWBqz4LihQczbt/ujOcE+4xtrTPirovch+vVy4x6PtEOYSlditB/vTbegpscKzyPcpWBk9xGvK7sxX+eRD1TmEgt6L2BkHQ8Fkf4JLSchc7Lz391Sy7FbB+3F0tJmB33kukfpO/2wMQMHJotYizsYh0TCjC00SnABgPGx1AOT1pCEnV+lDRIT5Spceimkj8YvShKhdwZyjAfgRbO3v03xen22JwpH5v0DoKxsRG77Xc4MzosyREPIAebKEo7qHToxwCr4PI5RizzFemcAqM0y5CVIL61D9uDIzTvZdnxpEFcAMBsjSaz7A=="
+   "version": "1.2.0",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.2.0/1.1.0_to_1.2.0_android.pck",
+   "sha256": "7249fa9ca4f81c36fdaf83c3ff486f823cd5b2b01ede0d3637df873e3c25f214",
+   "size": 186720,
+   "sig": "P1LubnQUZ6/c9NjwaLLb6jaqHDj180SJtVTFQpryaU/TmpId7fNpfVWA0QMqlmCmQqp0kEkkrAskJM1NY+Z7B5nI5wmyCxdTTqFKnqQkB+KIXwKTI1lYWElbbdHjDgwg5VZI/zMY+dYjp6INGSKfp/NbEMuAg1xSv1zTayV+nEu03lmSnxMNNCB5qcSGjAGmTezrnJ6vzYhZtgDpfmkw4UkV4b65ey+vC+4gVV8M8SKv0MJhbd7BeS4Rby/yc0lzOgOqu4SeiH0A8jQmzLSnFEsWb5nsH/dwnSQ0qzOzrw1oPtA/k1zXK4lIYBreKz/IS9E71FiX8YaGyCm3zX/Daw=="
   }
  },
  "web": {
   "1.1.0": {
-   "version": "1.1.2",
-   "url": "https://raw.githubusercontent.com/DrogaDep/deep-dark-dungeon-updates/main/web/1.1.0_to_1.1.2_web.pck",
-   "sha256": "5a0426d0d4d4b512c0f9dbb36511468aab15bb68fe9f3ab8eb5e025f769990c9",
-   "size": 73356,
-   "sig": "JJXTdB/WMc6Ue0Xh8b/3Bz/tD/dX1+Df5f+AsPafbN3I+ZiHidCSbADyzHxwdLsXctCfFm7TzFvCKVKLXiQrseB7ByC6rccvfi5WLlD9K1B6qoG6H6c35WLc/FUDKhk5O1KAheWI/YF+t+NiaU+LDNdd/5Moir6rh07p2PRAgmBSFPixyZwfekAaTv8AaEr3pA9OFrnTy4ouc3G5YtGkErIy/LyGrGncjqqAgt8eIoD29Tu+KdbdCnKJdJUGgO9m3S3L/naEGA4+9F3dZsUSSpOgaRuLLiLw7tjcBwegrpk3OSKXnzBVnw/HzNg3LRV8crMsRdhTDMJp4ywa1QIQqg=="
+   "version": "1.2.0",
+   "url": "https://raw.githubusercontent.com/DrogaDep/deep-dark-dungeon-updates/main/web/1.1.0_to_1.2.0_web.pck",
+   "sha256": "28cfe3d8008b21ba8b8e23293d28f2875461b3b9652c03e1e849cde19d7323f7",
+   "size": 127660,
+   "sig": "DZ6Qu/PE+jjrCV4G3yYzecmvPWQZDlifT2puu1eVBbwCM4ZFSFOnFZ5pXe1r+MzJq4mad+H2SPoqlDRc0qn5OZZtefOaoU1JhoM5ql8aSXE+iC2PdDeK9nIUuqYdg2VO9GekNF1DhDa7ZpjagyZ9O1p0w7dIDjpv3MA2U9kc/0hjTHjAI/aHKPj0WqO5rQ2N8V79qdYaC5KQktzrzWicu2oaR2vg+Cl77WlIoGsc+wMkxV8zVlqYWi7l3bKkscwhNpLKS5vJENbZcztKKgkplQuOze2hPW+b+2cmrLR5knteLy3a/C8/c1/t+DYTuCdFRjacXjjnh8m3mw2uNCdmcA=="
   }
  },
  "notes": {
   "1.1.0": "ОНОВЛЕННЯ ВСЮДИ: латки тепер приходять і в браузерну версію, і на Android — перекачувати гру більше не треба.\nПОПЕРЕДЖЕННЯ: в меню видно, що оновлення завантажується, а коли готове — вікно «що нового» з кнопками\n  «Перезапустити зараз» / «Пізніше»; у грі — тихе повідомлення.\nРУЧНА ПЕРЕВІРКА: Налаштування → Гра → «Перевірити оновлення» — працює і з вимкненим автооновленням.\nМЕНЮ: версію й підказки в кутку тепер видно.\nANDROID: гра отримала доступ до інтернету — працюють оновлення й онлайн-знак.\nА ще все з 1.0.1: плавна лава, вікна лави, «назад» на геймпаді, «Вилка братів», лучники на посту.",
   "1.1.1": "Вікно «оновлення готове» більше не вискакує поверх заставки — з'являється, щойно показався титул.\nПерша латка, що приходить одразу на всі три версії: ПК, браузер і Android.",
-  "1.1.2": "БРАУЗЕРНА ВЕРСІЯ: повернулися музика й звуки (у браузері звук ішов повз шини гри — на виході була тиша)."
+  "1.1.2": "БРАУЗЕРНА ВЕРСІЯ: повернулися музика й звуки (у браузері звук ішов повз шини гри — на виході була тиша).",
+  "1.2.0": "БРАУЗЕРНА ВЕРСІЯ: звук без перебоїв і тріску — він тепер мікшується в окремому потоці (нова браузерна збірка на itch.io).\nСенсорні кнопки в браузері — лише на телефоні й планшеті (на ПК з'являються, якщо торкнутися екрана)."
  }
 }
