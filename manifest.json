@@ -1,17 +1,41 @@
 {
- "latest": "1.1.0",
+ "latest": "1.1.1",
  "patches": {
   "1.0.0": {
-   "version": "1.1.0",
-   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.0/1.0.0_to_1.1.0.pck",
-   "sha256": "9158a38012f00e380c2a504b2846076fc8d11849db2df6647a4de41645c9b8b3",
-   "size": 3587984,
-   "sig": "YdppjY3Twy8iOOvCX8g6lwL3411tnMBYzLxqobjM5236d47DBN7LBwoDG4fRi/ilZ2aXjFMr/ejl9DZ4oAhhp11qHetCEwj4EgWA2wqOTvngCoVWMl2Gs7K1k1/fp5jYbd0I1ONd6Oi6N5rd/TDA8TUmvhK/L9Rz0vZJksUNB3lQYLudI43qU16b0YjzJkbqWMUqvz7Ug9RPe5esNbYj2gqjV2Dd+GqNiSWKwhld2q2VhkPiyMNY1iI1yYtjLt8QDCXnirZyCrJs00x6fpfYQUTs/KR6gpbRWxRRva+4VNc3bRYNjY2TCKnVVhU8jNNAGPMD5sdVOMQgUioV8bAWzA=="
+   "version": "1.1.1",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.1/1.0.0_to_1.1.1.pck",
+   "sha256": "f582edf5c1bb98371af760352166e7e66a49d59bad19cd5d18fce367898f28ca",
+   "size": 3588064,
+   "sig": "Ev2TR22oGFtl33COcDFCB6AEAaNv5FiO5lV0hUeCssZviPhDkuPrhvJF4N3+rIZxpromdHc3ka0jSwOToL+LU3ESwGSi5sHE2Z73togZHcjz7/SndVQb2HHqL/xPQeX70eAUodnY+G5WPr8eyMliLDPg5jsD3ULzGLPDDJh7AvL2COJTY9P2TtTtfd4Salp/RR1nxzaurXJEQJrwzavWQpnd2mLP66dsYqtj7rm26sP/elrjvbMIdXzwm6M7NmUPM0/oB5kdON7DVHCoTu4jGeDFGc5EUOYcmLSxJvHvgdYx3Ce1tlSmnppxeI+ICKPzirJWEGdRXcAkMjYhnClunA=="
+  },
+  "1.1.0": {
+   "version": "1.1.1",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.1/1.1.0_to_1.1.1.pck",
+   "sha256": "76cbdd6f5c3b28a5eae63f42a404a6e51e1efcc32be69dea8c6b9905c2ce5564",
+   "size": 73964,
+   "sig": "D2wtzbvr/o0Sx4zRYPm6z6Hd1W98OQFq/zNyJLwH+yVaGaNzSzDnN2AjPGO3TsqOtTWgCUnYU7YakaOnGzdCqFnb7KmiO0u3p7Vcw+p8UkkgZQSu4yTsY/J92LeJjAdq6TrBwdkqdVfWw4QLEHlI2R4CPyUKDEeKxlcQy5+uDIRNrIUZLICAoUxyECm9UtF6ZFCPkVWw2wcSpMpPRwsvMdgy48B9rsJLIfCcU9NWgHaHwroupwn9jZN1JOek29SmDXkhAeCxXogMFUoCuun7KpsIB5TDeb+YYsz1i7z4aWc7mpW/Wq0WXSjs9+f+/G6rTeyxN3VIT5RdxlhowB2BWg=="
   }
  },
- "android": {},
- "web": {},
+ "android": {
+  "1.1.0": {
+   "version": "1.1.1",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.1/1.1.0_to_1.1.1_android.pck",
+   "sha256": "be32e3b86a96c6a807a886d10765811630ea6f35b20981035e7d65e1e01cd3c9",
+   "size": 125576,
+   "sig": "MltLLVDtvfvh1jAgXcvBdWD6ntLillT/G2evNXC5b0VX8Viuip67Pe1X4pzzXHVhZYFEUc7ug9ex/nL2vBzTl/cgZ5vGvAcw1aJPmkvWB3sJc2TCMFPidWtuTObTr/r7dPtE377+cfynsHKczOYrqDR62zD2HcB5vRJL+pUgXnAuiupmS8Womw3qqEILd58TUXczteppIoy6BkwgwktAU2uAe0lidk9KtF69Lk6dA8vF29u357z0yoIyWKl4qEdqV96Z9o5IRDU9k5OvoGMvLX4XGbA7pNfxdW0uqGTEooXJxL10dzj+4G9a4KFFcLvliw32CZTaO+s/5fuNxKEyqQ=="
+  }
+ },
+ "web": {
+  "1.1.0": {
+   "version": "1.1.1",
+   "url": "https://raw.githubusercontent.com/DrogaDep/deep-dark-dungeon-updates/main/web/1.1.0_to_1.1.1_web.pck",
+   "sha256": "13166b0836c9981f488f6614728ac49b1af327a72f55f69517e582d0cb8bdf8f",
+   "size": 66516,
+   "sig": "gn9cKaPbQ6yuq/0ZFtmUqzynjnu2GfXh7Dzl0H/ogc5y/Be/5Khl5z0JB1nRhs2sDAb1J6lYqWj0XScgyJYem6B0diWYZEf8ap1o9yxbYpbOqCZQ8VvxSnM7tnvXY0gs6acQ7h8w1u8TJpB1fUqaN3s06f0Gtv4NWwMFXkVJUU56Ie10oKiC6CSNqtK12IunfVFAXiVv2hiyY87ievVskM3ThB9DF0q9P2eKYFxPACDbFZ4s4hetAyOUTX3dz9XG+7QXOuZBzOIB9DaKarpDn7D2/EcK4enPS6SaSEflabHm9/iy5xzeEf0h7sBLh7lnhMMNUe89FGNM2zr7ylwNwA=="
+  }
+ },
  "notes": {
-  "1.1.0": "ОНОВЛЕННЯ ВСЮДИ: латки тепер приходять і в браузерну версію, і на Android — перекачувати гру більше не треба.\nПОПЕРЕДЖЕННЯ: в меню видно, що оновлення завантажується, а коли готове — вікно «що нового» з кнопками\n  «Перезапустити зараз» / «Пізніше»; у грі — тихе повідомлення.\nРУЧНА ПЕРЕВІРКА: Налаштування → Гра → «Перевірити оновлення» — працює і з вимкненим автооновленням.\nМЕНЮ: версію й підказки в кутку тепер видно.\nANDROID: гра отримала доступ до інтернету — працюють оновлення й онлайн-знак.\nА ще все з 1.0.1: плавна лава, вікна лави, «назад» на геймпаді, «Вилка братів», лучники на посту."
+  "1.1.0": "ОНОВЛЕННЯ ВСЮДИ: латки тепер приходять і в браузерну версію, і на Android — перекачувати гру більше не треба.\nПОПЕРЕДЖЕННЯ: в меню видно, що оновлення завантажується, а коли готове — вікно «що нового» з кнопками\n  «Перезапустити зараз» / «Пізніше»; у грі — тихе повідомлення.\nРУЧНА ПЕРЕВІРКА: Налаштування → Гра → «Перевірити оновлення» — працює і з вимкненим автооновленням.\nМЕНЮ: версію й підказки в кутку тепер видно.\nANDROID: гра отримала доступ до інтернету — працюють оновлення й онлайн-знак.\nА ще все з 1.0.1: плавна лава, вікна лави, «назад» на геймпаді, «Вилка братів», лучники на посту.",
+  "1.1.1": "Вікно «оновлення готове» більше не вискакує поверх заставки — з'являється, щойно показався титул.\nПерша латка, що приходить одразу на всі три версії: ПК, браузер і Android."
  }
 }
