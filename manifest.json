@@ -1,41 +1,42 @@
 {
- "latest": "1.1.1",
+ "latest": "1.1.2",
  "patches": {
   "1.0.0": {
-   "version": "1.1.1",
-   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.1/1.0.0_to_1.1.1.pck",
-   "sha256": "f582edf5c1bb98371af760352166e7e66a49d59bad19cd5d18fce367898f28ca",
-   "size": 3588064,
-   "sig": "Ev2TR22oGFtl33COcDFCB6AEAaNv5FiO5lV0hUeCssZviPhDkuPrhvJF4N3+rIZxpromdHc3ka0jSwOToL+LU3ESwGSi5sHE2Z73togZHcjz7/SndVQb2HHqL/xPQeX70eAUodnY+G5WPr8eyMliLDPg5jsD3ULzGLPDDJh7AvL2COJTY9P2TtTtfd4Salp/RR1nxzaurXJEQJrwzavWQpnd2mLP66dsYqtj7rm26sP/elrjvbMIdXzwm6M7NmUPM0/oB5kdON7DVHCoTu4jGeDFGc5EUOYcmLSxJvHvgdYx3Ce1tlSmnppxeI+ICKPzirJWEGdRXcAkMjYhnClunA=="
+   "version": "1.1.2",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.2/1.0.0_to_1.1.2.pck",
+   "sha256": "e9c7d2942e0505541ea818a8abb8ba564340794c46cd2fcdc992ceefbc66f740",
+   "size": 3594904,
+   "sig": "jxQIGz9cpT78S7DfB5AUetWcFg+N22Uz67J1VvHu0uWUmSbKVzKMTg2HKkJK6Qa96cKvbREV8LVPA3TLktCxUC+876HoRkFF3B6Lg2/wRzhhmAF1FekhEmna7M7G/lroPedcohcPF7u4pCtRw6bzojHGyjxuNFLHwAbK9WtJCd0XcgE57k1J4v9fC26CJ5n/rPaVMFsgZtVTACxaKYQIzjszGmCw54uhnu6Z0vsq5fnPmZMHKWxVarWm8hKUUBFBRNBCQTgwybxA/E3BSoTsJdeY3LmghuaHTDqCm18oPz0lnQ00aJz7xXa/MErQisr+efmFdK+USj1N0QkaeBvNYw=="
   },
   "1.1.0": {
-   "version": "1.1.1",
-   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.1/1.1.0_to_1.1.1.pck",
-   "sha256": "76cbdd6f5c3b28a5eae63f42a404a6e51e1efcc32be69dea8c6b9905c2ce5564",
-   "size": 73964,
-   "sig": "D2wtzbvr/o0Sx4zRYPm6z6Hd1W98OQFq/zNyJLwH+yVaGaNzSzDnN2AjPGO3TsqOtTWgCUnYU7YakaOnGzdCqFnb7KmiO0u3p7Vcw+p8UkkgZQSu4yTsY/J92LeJjAdq6TrBwdkqdVfWw4QLEHlI2R4CPyUKDEeKxlcQy5+uDIRNrIUZLICAoUxyECm9UtF6ZFCPkVWw2wcSpMpPRwsvMdgy48B9rsJLIfCcU9NWgHaHwroupwn9jZN1JOek29SmDXkhAeCxXogMFUoCuun7KpsIB5TDeb+YYsz1i7z4aWc7mpW/Wq0WXSjs9+f+/G6rTeyxN3VIT5RdxlhowB2BWg=="
+   "version": "1.1.2",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.2/1.1.0_to_1.1.2.pck",
+   "sha256": "1a952715bcf94c142f9f82f3d34d0dfcb6ebc784c0d2cf0b29b5a89ebfad3b24",
+   "size": 80804,
+   "sig": "MwPx3dlxHn4nXfPr85DcgJ4iVzmWvwD5iDpyS5RyPSV4+J0STpr1EdAhe4YGnwkDgnu/S8HRUFZAXv0pc5NNWeZNst2/+vepw/VoGuzencFK/BMpz3WOUIFp9wqO4ZMxulDhgLRHvjYRzcsp44qQ74RNsZziUFEMVogjd5Z7q1s08KzqspzzD01rsQsAnNSTF92LUv9CZHZ3wBlVNKOYp3XH+fuBsxGuKekubdiusP70CLkUe3rqbxw6v/ykikl9et8cthM5Roz7CUwPA2YTxoXMXfc9CGxlEkXDYwTA2DIOUe0v5y8EvYIX2KG4iK/I6ipjoqRRui02eOd2J6Np+A=="
   }
  },
  "android": {
   "1.1.0": {
-   "version": "1.1.1",
-   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.1/1.1.0_to_1.1.1_android.pck",
-   "sha256": "be32e3b86a96c6a807a886d10765811630ea6f35b20981035e7d65e1e01cd3c9",
-   "size": 125576,
-   "sig": "MltLLVDtvfvh1jAgXcvBdWD6ntLillT/G2evNXC5b0VX8Viuip67Pe1X4pzzXHVhZYFEUc7ug9ex/nL2vBzTl/cgZ5vGvAcw1aJPmkvWB3sJc2TCMFPidWtuTObTr/r7dPtE377+cfynsHKczOYrqDR62zD2HcB5vRJL+pUgXnAuiupmS8Womw3qqEILd58TUXczteppIoy6BkwgwktAU2uAe0lidk9KtF69Lk6dA8vF29u357z0yoIyWKl4qEdqV96Z9o5IRDU9k5OvoGMvLX4XGbA7pNfxdW0uqGTEooXJxL10dzj+4G9a4KFFcLvliw32CZTaO+s/5fuNxKEyqQ=="
+   "version": "1.1.2",
+   "url": "https://github.com/DrogaDep/deep-dark-dungeon-updates/releases/download/v1.1.2/1.1.0_to_1.1.2_android.pck",
+   "sha256": "b1a3a619e8f36b077ed39488ddde0eb9fb25ee3645c1c4a4429baad45bd5e756",
+   "size": 132416,
+   "sig": "RHmw9GRESNDmptrl3mGz3NyyUN9id2AApWBqz4LihQczbt/ujOcE+4xtrTPirovch+vVy4x6PtEOYSlditB/vTbegpscKzyPcpWBk9xGvK7sxX+eRD1TmEgt6L2BkHQ8Fkf4JLSchc7Lz391Sy7FbB+3F0tJmB33kukfpO/2wMQMHJotYizsYh0TCjC00SnABgPGx1AOT1pCEnV+lDRIT5Spceimkj8YvShKhdwZyjAfgRbO3v03xen22JwpH5v0DoKxsRG77Xc4MzosyREPIAebKEo7qHToxwCr4PI5RizzFemcAqM0y5CVIL61D9uDIzTvZdnxpEFcAMBsjSaz7A=="
   }
  },
  "web": {
   "1.1.0": {
-   "version": "1.1.1",
-   "url": "https://raw.githubusercontent.com/DrogaDep/deep-dark-dungeon-updates/main/web/1.1.0_to_1.1.1_web.pck",
-   "sha256": "13166b0836c9981f488f6614728ac49b1af327a72f55f69517e582d0cb8bdf8f",
-   "size": 66516,
-   "sig": "gn9cKaPbQ6yuq/0ZFtmUqzynjnu2GfXh7Dzl0H/ogc5y/Be/5Khl5z0JB1nRhs2sDAb1J6lYqWj0XScgyJYem6B0diWYZEf8ap1o9yxbYpbOqCZQ8VvxSnM7tnvXY0gs6acQ7h8w1u8TJpB1fUqaN3s06f0Gtv4NWwMFXkVJUU56Ie10oKiC6CSNqtK12IunfVFAXiVv2hiyY87ievVskM3ThB9DF0q9P2eKYFxPACDbFZ4s4hetAyOUTX3dz9XG+7QXOuZBzOIB9DaKarpDn7D2/EcK4enPS6SaSEflabHm9/iy5xzeEf0h7sBLh7lnhMMNUe89FGNM2zr7ylwNwA=="
+   "version": "1.1.2",
+   "url": "https://raw.githubusercontent.com/DrogaDep/deep-dark-dungeon-updates/main/web/1.1.0_to_1.1.2_web.pck",
+   "sha256": "5a0426d0d4d4b512c0f9dbb36511468aab15bb68fe9f3ab8eb5e025f769990c9",
+   "size": 73356,
+   "sig": "JJXTdB/WMc6Ue0Xh8b/3Bz/tD/dX1+Df5f+AsPafbN3I+ZiHidCSbADyzHxwdLsXctCfFm7TzFvCKVKLXiQrseB7ByC6rccvfi5WLlD9K1B6qoG6H6c35WLc/FUDKhk5O1KAheWI/YF+t+NiaU+LDNdd/5Moir6rh07p2PRAgmBSFPixyZwfekAaTv8AaEr3pA9OFrnTy4ouc3G5YtGkErIy/LyGrGncjqqAgt8eIoD29Tu+KdbdCnKJdJUGgO9m3S3L/naEGA4+9F3dZsUSSpOgaRuLLiLw7tjcBwegrpk3OSKXnzBVnw/HzNg3LRV8crMsRdhTDMJp4ywa1QIQqg=="
   }
  },
  "notes": {
   "1.1.0": "ОНОВЛЕННЯ ВСЮДИ: латки тепер приходять і в браузерну версію, і на Android — перекачувати гру більше не треба.\nПОПЕРЕДЖЕННЯ: в меню видно, що оновлення завантажується, а коли готове — вікно «що нового» з кнопками\n  «Перезапустити зараз» / «Пізніше»; у грі — тихе повідомлення.\nРУЧНА ПЕРЕВІРКА: Налаштування → Гра → «Перевірити оновлення» — працює і з вимкненим автооновленням.\nМЕНЮ: версію й підказки в кутку тепер видно.\nANDROID: гра отримала доступ до інтернету — працюють оновлення й онлайн-знак.\nА ще все з 1.0.1: плавна лава, вікна лави, «назад» на геймпаді, «Вилка братів», лучники на посту.",
-  "1.1.1": "Вікно «оновлення готове» більше не вискакує поверх заставки — з'являється, щойно показався титул.\nПерша латка, що приходить одразу на всі три версії: ПК, браузер і Android."
+  "1.1.1": "Вікно «оновлення готове» більше не вискакує поверх заставки — з'являється, щойно показався титул.\nПерша латка, що приходить одразу на всі три версії: ПК, браузер і Android.",
+  "1.1.2": "БРАУЗЕРНА ВЕРСІЯ: повернулися музика й звуки (у браузері звук ішов повз шини гри — на виході була тиша)."
  }
 }
